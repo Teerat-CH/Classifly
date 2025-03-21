@@ -4,6 +4,10 @@ Image classification of 75 butterfly species using transfer learning with YOLOv8
 
 **Accuracy**: 0.8246
 
+Simple classification web application of this model: https://classifly-teeratc.streamlit.app/
+
+
+
 ### Image Segmentation
 ![Butterfly](ButterflySegmentation.png)
 
